@@ -7,7 +7,7 @@ and files over and over again.
 -----------
 #Installation:
 
-For Linux and Mac:
+For Linux:
 	Besides the ASPM executable you will also find a file called "install.sh". That
 	file will install aspm to your machine and also lets you call aspm by just
 	entering "aspm" in your terminal.
