@@ -5,7 +5,7 @@ This is just a small automation I did, so that I don't have to create the same f
 and files over and over again.
 
 -----------
-#Installation:
+# Installation:
 
 For Linux:
 	Besides the ASPM executable you will also find a file called "install.sh". That
@@ -13,7 +13,9 @@ For Linux:
 	entering "aspm" in your terminal.
 
 For Windows:
-	By the time you are reading this, I am working on a Windows installing script ;)
+	Besides the ASPM executable you will also find a file called "install.bat". That
+	file will install aspm to your machine and also lets you call aspm by just entering
+	"aspm" in your terminal.
 
 ---------
 
