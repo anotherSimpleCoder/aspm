@@ -106,7 +106,7 @@ void createMakefile(){
 	"\n"
 	"compile:\n"
 	"	g++ -I include -c src/*.cpp $(libs)\n"
-	"	g++ -I include -c src/*.cpp $(libs) -o main.o\n"
+	"	g++ -I include -c main.cpp $(libs) -o main.o\n"
 	"	g++ $(libs) -o " + projectName + " *.o\n"
 	"	rm *.o\n"
 	"\n"
